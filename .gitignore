@@ -1,0 +1,6 @@
+/.vs
+/wipe.bat
+/UpgradeLog*.XML
+/_UpgradeReport_Files
+/*.suo
+/*.csproj.user
